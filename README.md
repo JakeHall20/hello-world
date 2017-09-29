@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Jake
+Learned on C++, and taking Python
